@@ -36,12 +36,12 @@
         <Grid Grid.Row="2">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
                     <Button  Background="LightBlue"
-                         Content="Yes" FontSize="12" Height="25" Width="60"
+                         Content="_Yes" FontSize="12" Height="25" Width="60"
                                 Margin="80,5,10,6"
                              BorderBrush="Black"
              />
             <Button Background="LightBlue" HorizontalAlignment="Right"  
-                 Content="No" FontSize="12" Height="25" Width="60"
+                 Content="_No" FontSize="12" Height="25" Width="60"
                     Margin="20,5,10,6"
                      BorderBrush="Black"/>
              </StackPanel>
