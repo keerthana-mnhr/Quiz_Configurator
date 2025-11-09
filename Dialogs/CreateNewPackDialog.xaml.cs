@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Quiz_Configurator
+namespace Quiz_Configurator.Dialogs
 {
     /// <summary>
     /// Interaction logic for New_Question_Pack.xaml
